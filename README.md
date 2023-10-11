@@ -5,6 +5,7 @@
 <p id="description">The Netflix Clone project is an innovative web application that replicates the renowned Netflix streaming platform's user interface and functionality. Created using cutting-edge frontend technologies like React and styled with Tailwind CSS the project provides users with a seamless and visually appealing movie-watching experience. Leveraging Firebase for authentication and database services along with the integration of React-Toastify for notifications and TMDB API for fetching movies this clone stands as a testament to modern web development techniques.</p>
 
 <h2>🚀 Demo</h2>
+[https://netflop-clone.web.app/](https://netflop-clone.web.app/)
 
 <h2>Project Screenshots:</h2>
 <h3> Home Page</h2>
