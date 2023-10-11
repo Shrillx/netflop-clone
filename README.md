@@ -7,9 +7,17 @@
 <h2>🚀 Demo</h2>
 
 <h2>Project Screenshots:</h2>
-
-  
-  
+<h3> Home Page</h2>
+<img width="1512" alt="mainHome" src="https://github.com/Shrillx/netflop-clone/assets/77433090/8256a6ee-d936-4b20-8be1-1c43ac1cf6e1">
+<h3> Movies </h2>
+<img width="1512" alt="allMovies" src="https://github.com/Shrillx/netflop-clone/assets/77433090/f6bbb5ff-1dc5-4377-b876-d93a26a2453b">
+<h3> Auth</h2>
+<img width="1512" alt="auth1" src="https://github.com/Shrillx/netflop-clone/assets/77433090/26446721-0870-463f-90f3-83abb2a45b9e">
+<img width="1512" alt="auth2" src="https://github.com/Shrillx/netflop-clone/assets/77433090/f7123546-ffa3-471a-881b-87e36b9ac742">
+<h3> Accounts</h2>
+<img width="1512" alt="account" src="https://github.com/Shrillx/netflop-clone/assets/77433090/3ad54c7e-aa5b-4004-b10c-950e12f2d329">
+<h3> Toaster </h2>
+<img width="1504" alt="toaster" src="https://github.com/Shrillx/netflop-clone/assets/77433090/c3ff76d8-bdfc-4a0b-9c74-3095507ed2a8">
 
 <h2>🧐 Features</h2>
 
